@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="136317" started-at="2019-11-13T12:45:04 CST" finished-at="2019-11-13T12:47:21 CST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="136317" started-at="2019-11-13T12:45:04 CST" finished-at="2019-11-13T12:47:21 CST">
+      <class name="com.Automationtalks.demoProject.TestClass1">
+        <test-method status="PASS" signature="launchDriver()[pri:0, instance:com.Automationtalks.demoProject.TestClass1@53b32d7]" name="launchDriver" is-config="true" duration-ms="8376" started-at="2019-11-13T12:45:04 CST" finished-at="2019-11-13T12:45:13 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchDriver -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.Automationtalks.demoProject.TestClass1@53b32d7]" name="test1" duration-ms="9133" started-at="2019-11-13T12:45:13 CST" finished-at="2019-11-13T12:45:22 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="launchDriver()[pri:0, instance:com.Automationtalks.demoProject.TestClass1@53b32d7]" name="launchDriver" is-config="true" duration-ms="13759" started-at="2019-11-13T12:45:22 CST" finished-at="2019-11-13T12:45:36 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchDriver -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:com.Automationtalks.demoProject.TestClass1@53b32d7]" name="test2" duration-ms="48157" started-at="2019-11-13T12:45:36 CST" finished-at="2019-11-13T12:46:24 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="launchDriver()[pri:0, instance:com.Automationtalks.demoProject.TestClass1@53b32d7]" name="launchDriver" is-config="true" duration-ms="8477" started-at="2019-11-13T12:46:24 CST" finished-at="2019-11-13T12:46:32 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchDriver -->
+        <test-method status="PASS" signature="test3()[pri:0, instance:com.Automationtalks.demoProject.TestClass1@53b32d7]" name="test3" duration-ms="48337" started-at="2019-11-13T12:46:32 CST" finished-at="2019-11-13T12:47:21 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+      </class> <!-- com.Automationtalks.demoProject.TestClass1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
